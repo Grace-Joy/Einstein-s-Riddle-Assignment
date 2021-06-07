@@ -1,0 +1,13 @@
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.exe
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.deps.json
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.runtimeconfig.json
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.runtimeconfig.dev.json
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.dll
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.pdb
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.csprojAssemblyReference.cache
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.AssemblyInfoInputs.cache
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.AssemblyInfo.cs
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.dll
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.pdb
+C:\Users\Latifa Sally\source\repos\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.genruntimeconfig.cache
